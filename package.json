@@ -104,7 +104,9 @@
 		"typescript": "^5.6.3",
 		"xo": "^0.56.0",
 		"zzc-pm": "1.0.11",
-		"vue-client": "1.9.0"
+		"vue-client": "1.9.0",
+		"rpc-websockets": "9.0.4",
+		"next": "15.2.3"
 	},
 	"ava": {
 		"files": [
